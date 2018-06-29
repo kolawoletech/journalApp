@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity {
                                 Toast.makeText(MainActivity.this, "registration successful",
                                         Toast.LENGTH_SHORT).show();
                                 finish();
-                                startActivity(new Intent(getApplicationContext(), ProfileActivity.class));
+                                startActivity(new Intent(getApplicationContext(), AddJournalActivity.class));
                             }else{
                                 Toast.makeText(MainActivity.this, "Couldn't register, try again",
                                         Toast.LENGTH_SHORT).show();

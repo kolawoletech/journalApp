@@ -14,4 +14,6 @@
         completions."
     </string>
     <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_add_journal">AddJournalActivity</string>
+    <string name="action_settings">Settings</string>
 </resources>
